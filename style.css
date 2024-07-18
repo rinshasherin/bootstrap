@@ -1,0 +1,21 @@
+nav{
+    background-color: rgb(164, 239, 51);
+}
+.nav-link:hover{
+    color: white;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: green;
+    border-radius: 5px;
+}
+
+.card:hover{
+    opacity: 0.5;
+
+}
+
+.card-body{
+    
+    border-bottom-right-radius:5px;
+    border-bottom-left-radius:5px;
+}
